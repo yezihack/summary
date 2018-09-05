@@ -1,15 +1,8 @@
 Summary
 =============
 
-# PHP 区
 
-
-### 面试
-- [基础](php/base_interview.md)
-- [中级](php/middle_interview.md)
-
-
-## GO 区
+# GO 区
 > GO是当今流行的静态语言,而非脚本语言.被誉为21世纪的C语言
 
 - [GO知识结构图谱](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0)
@@ -31,3 +24,12 @@ Summary
 
 ### GO学习笔记
  - [channel信道实例代码](go/note1.md)
+ 
+ 
+# PHP 区
+ 
+ 
+### 面试
+ - [基础](php/base_interview.md)
+ - [中级](php/middle_interview.md)
+ 
