@@ -57,3 +57,6 @@
 - [git简明使用](../git/git.md)
 - [git中级使用](../git/mid.md)
 - [git高级使用](../git/high.md)
+
+# 其它
+- [proxifier](https://www.proxifier.com/)
